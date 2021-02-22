@@ -1,0 +1,29 @@
+@import "atticgreek.css";
+
+p.bannerpdgm
+{
+	font-family: "Palatino";
+	font-size: 28pt;
+	line-height: 55pt;
+	text-align: center;
+	color: black;
+	background-color: #fff4d5;
+	padding: 0px 0px 0px 0px;
+	margin: 0;
+	border-width: 0;
+	min-width: 600;
+
+	vertical-align: baseline;
+}
+
+span.greekregular {font-family: "New Athena Unicode","Lucida Grande", "KadmosU", "BosporosU",  "Gentium", "Palatino Linotype", "Arial","Cardo"; }
+span.greekduals {font-family: "New Athena Unicode","Lucida Grande", "KadmosU", "BosporosU",  "Gentium", "Palatino Linotype", "Arial","Cardo"; font-size: 18pt; color:gray}
+span.greekred {font-family: "New Athena Unicode","Lucida Grande", "KadmosU", "BosporosU",  "Gentium", "Palatino Linotype", "Arial","Cardo"; font-size: 18pt; color: red}
+h2 {color: "0033ff"; text-align: center}
+span.greekpdgm {font-family: "New Athena Unicode","Lucida Grande", "KadmosU", "BosporosU",  "Gentium", "Palatino Linotype", "Arial","Cardo"; font-size: 18pt; color: black}
+h2 {color: "0033ff"; text-align: center}
+
+td.pdgmindex
+{
+font-size: 10pt;
+}
